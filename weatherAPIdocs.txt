@@ -1,0 +1,15 @@
+{"City": "Konotop", "Weather": "clear sky", "Temperature": "12\u00b0C", "Humidity": "31%", "Wind": {"Speed": "3.85 m/s", "Degree": "106\u00b0", "Max gust speed": "9.15 m/s"}}
+{"City": "Kiev", "Weather": "broken clouds", "Temperature": "12\u00b0C", "Humidity": "85%", "Wind": {"Speed": "0.45 m/s", "Degree": "135\u00b0", "Max gust speed": "1.34 m/s"}}
+{"City": "Sumy", "Weather": "clear sky", "Temperature": "13\u00b0C", "Humidity": "29%", "Wind": {"Speed": "3.5 m/s", "Degree": "104\u00b0", "Max gust speed": "10.82 m/s"}}
+{"City": "London", "Weather": "overcast clouds", "Temperature": "13\u00b0C", "Humidity": "92%", "Wind": {"Speed": "4.12 m/s", "Degree": "310\u00b0", "Max gust speed": "None m/s"}}
+{"City": "Lviv", "Weather": "clear sky", "Temperature": "4\u00b0C", "Humidity": "90%", "Wind": {"Speed": "1.84 m/s", "Degree": "185\u00b0", "Max gust speed": "1.82 m/s"}}
+{"City": "Washington", "Weather": "scattered clouds", "Temperature": "23\u00b0C", "Humidity": "21%", "Wind": {"Speed": "1.94 m/s", "Degree": "250\u00b0", "Max gust speed": "7.12 m/s"}}
+{"City": "Rostok", "Weather": "overcast clouds", "Temperature": "9\u00b0C", "Humidity": "88%", "Wind": {"Speed": "5.94 m/s", "Degree": "88\u00b0", "Max gust speed": "12.4 m/s"}}
+{"City": "Jakarta", "Weather": "few clouds", "Temperature": "27\u00b0C", "Humidity": "78%", "Wind": {"Speed": "0 m/s", "Degree": "0\u00b0", "Max gust speed": "None m/s"}}
+{"City": "Oslo", "Weather": "broken clouds", "Temperature": "4\u00b0C", "Humidity": "93%", "Wind": {"Speed": "1.67 m/s", "Degree": "358\u00b0", "Max gust speed": "1.54 m/s"}}
+{"City": "Las Vegas", "Weather": "clear sky", "Temperature": "38\u00b0C", "Humidity": "10%", "Wind": {"Speed": "3.6 m/s", "Degree": "90\u00b0", "Max gust speed": "None m/s"}}
+{"City": "New Delhi", "Weather": "mist", "Temperature": "27\u00b0C", "Humidity": "83%", "Wind": {"Speed": "0 m/s", "Degree": "0\u00b0", "Max gust speed": "None m/s"}}
+{"City": "Delhi", "Weather": "mist", "Temperature": "27\u00b0C", "Humidity": "83%", "Wind": {"Speed": "0 m/s", "Degree": "0\u00b0", "Max gust speed": "None m/s"}}
+{"City": "Yasinovataya", "Weather": "clear sky", "Temperature": "16\u00b0C", "Humidity": "17%", "Wind": {"Speed": "5.33 m/s", "Degree": "104\u00b0", "Max gust speed": "12.51 m/s"}}
+{"City": "Krym", "Weather": "few clouds", "Temperature": "13\u00b0C", "Humidity": "18%", "Wind": {"Speed": "5.81 m/s", "Degree": "87\u00b0", "Max gust speed": "14.38 m/s"}}
+{"City": "Mykolaiv", "Weather": "clear sky", "Temperature": "3\u00b0C", "Humidity": "92%", "Wind": {"Speed": "1.84 m/s", "Degree": "160\u00b0", "Max gust speed": "1.86 m/s"}}
